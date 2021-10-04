@@ -1,2 +1,2 @@
 # PROBABILITY_AND_STATISTICS
-PROBABILITY_AND_STATISTICS HW
+Probability and statistics HW practice
